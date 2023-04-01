@@ -17,8 +17,7 @@ in a new Predict webpage.
 - ***'model.pkl'*** file mentioned in ***'app.py'*** is not uploaded as it is 1.11 GB
 - Run the ***'model.py'*** to save the ***'model.pkl'*** in the same directory as ***'app.py'***
 - Finally, start the local host server.
-- ## Create your own database with name as ***'login'*** and table name as ***'Details'*** with column names
-  ***'username'*** and ***'password'*** for ease of access.
+- ## Create your own database with name as ***'login'*** and table name as ***'Details'*** with column names ***'username'*** and ***'password'*** for ease of access.
 - ## **Do not change the folder names.**
 
 
