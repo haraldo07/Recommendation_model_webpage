@@ -13,7 +13,7 @@ in a new Predict webpage.
 
 # Note:
 
-- Sample images of the webpages are uploaded in the ***image*** folder.
+- Sample images of the webpages are uploaded in the ***sample_images*** folder.
 - ***'model.pkl'*** file mentioned in ***'app.py'*** is not uploaded as it is 1.11 GB
 - Run the ***'model.py'*** to save the ***'model.pkl'*** in the same directory as ***'app.py'***
 - Finally, start the local host server.
