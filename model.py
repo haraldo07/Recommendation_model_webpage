@@ -44,9 +44,7 @@ class ItemRecommender:
         b['Title']=df['Title'].iloc[idx]
         b['No. Of Episodes']=df['Episodes'].astype('int64').iloc[idx]
         b.reset_index(drop=True,inplace=True)
-        #b.set_index('Title',inplace=True)#.to_dict()
         return b
-        #return b['Episodes']
     
 rec=ItemRecommender()
 
